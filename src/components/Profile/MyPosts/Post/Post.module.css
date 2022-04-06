@@ -1,0 +1,27 @@
+.profile_content {
+  display: flex;
+  
+}
+
+.post{
+  display: flex;
+ /*  background-color: rgb(224, 72, 72); */
+  padding: 20px 30px;
+  box-shadow: grey 5px 2px 5px 2px;
+  /* border: 1px solid grey; */
+  padding-bottom: 20px;
+}
+
+.avatar{
+  width: 80px;
+}
+
+.avatar img{
+  width: 70px;
+  height: auto;
+  border-radius: 50%;
+}
+
+.like{
+  display: block;
+}

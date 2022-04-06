@@ -1,0 +1,32 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+    padding-top: 20px;
+}
+
+.dialogs .dialogs_items{
+    padding-left: 20px;
+}
+
+.dialogElementStyle{
+    padding-bottom: 20px;
+    color: chartreuse;
+}
+
+.active{
+    padding-bottom: 10px;
+    color: gold;
+}
+
+.messages{
+    padding-left: 20px;
+}
+
+.send_message>textarea{
+    margin-top: 50px;
+}
+
+
+/* .dialogs_items .item{
+
+} */

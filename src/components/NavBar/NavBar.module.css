@@ -1,0 +1,33 @@
+.nav {
+  grid-area: n;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.navigation_item {
+  padding: 0.7rem;
+  font-size: 20px;
+  text-decoration: none;
+  color: blueviolet;
+}
+
+.active{
+  padding: 0.7rem;
+  font-size: 20px;
+  margin-top: 20px;
+  color: gold;
+}
+
+
+.navigation_item a:hover {
+  text-decoration: underline;
+}
+
+.item{
+  padding-top: 20px;
+}
+
+/* .navigation_item a:active {
+  color: gold;
+}
+ */

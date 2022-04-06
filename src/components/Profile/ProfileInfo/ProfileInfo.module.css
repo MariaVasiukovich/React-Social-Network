@@ -1,0 +1,37 @@
+.content_avatar img {
+  width: 250px;
+  border-radius: 50%;
+  margin-top: -100px;
+  padding-left: 20px;
+}
+
+.profile_content {
+  display: flex;
+}
+
+.content_high_image {
+  height: 300px;
+  overflow: hidden;
+  background-image: url(https://postervdom.ru/upload/shop_3/1/6/2/item_16276/item_16276.jpg);
+  background-size: cover;
+  background-position: center;
+  border-radius: 20px 20px 0 0;
+  width: 100%;
+}
+
+.high_image_wrapper img {
+  overflow: hidden;
+  width: 100%;
+}
+
+.content_avatar img {
+  width: 250px;
+  border-radius: 50%;
+  margin-top: -100px;
+  padding-left: 20px;
+}
+
+.profile_content {
+  display: flex;
+  padding: 10px;
+}
